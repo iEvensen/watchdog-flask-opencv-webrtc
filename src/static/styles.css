@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+    color: #ff6600; /* Orange County Orange */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    font-size: 2em;
+    margin: 20px 0;
+}
